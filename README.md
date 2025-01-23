@@ -1,11 +1,11 @@
 ## Hi there 👋
 **Mathematician, passionate about:**
-- problem-solving,
-- programming, 
-- projects that foster creativity and learning new things.
+- Problem-solving. ♟️🎯
+- Programming. 💻
+- Projects that foster creativity and learning new things.🔭✨👨‍🔬🕵️‍♂️🔬
 
-**I'm working on personalized programs to resolve and automate tasks for different departments.**\n
-**Here you can find some professional projects and also some homemade programs that I love to craft from time to time**
+**I'm working on personalized programs to resolve and automate tasks for different departments.**
+**Here you can find some professional projects and also some homemade programs that I love to craft from time to time** 🎮🕹️
 
 
 <!--
