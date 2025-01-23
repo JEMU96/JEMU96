@@ -1,4 +1,5 @@
 ## Hi there 👋
+Mathematician, passionate about problem-solving, programming, and projects that foster creativity and learning new things.
 
 <!--
 **JEMU96/JEMU96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
